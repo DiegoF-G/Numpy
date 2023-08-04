@@ -3,4 +3,4 @@ This repository is about my study of Data Science from Alura platform with packa
 I use Google Colab for this.
 
 * The main topics about my study of Numpy are in numpy_general_notes.ipynb file.
-* numpy1, 2, 3.ipynb is about a chalange in [Kaggle](https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit).
+* numpy1, 2, 3, 4.ipynb is about a chalange in [Kaggle](https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit).
